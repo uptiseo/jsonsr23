@@ -1,5 +1,5 @@
 { "basket": { "blogList": [ 
-{ "blog": { "link": "https://istindia.org/course/solar-operator-technician-training", "title": "JSON solar operator technician training"} }
-{ "blog": { "link": "https://istindia.org/course/solar-training-network-global", "title": "JSON solar training network global"} }
+{ "blog": { "link": "https://istindia.org/course/solar-operator-technician-training", "title": "JSON solar operator technician training"} },
+{ "blog": { "link": "https://istindia.org/course/solar-training-network-global", "title": "JSON solar training network global"} },
 { "blog": { "link": "https://istindia.org/course/solar-training-and-education-for-professionals", "title": "JSON solar training and education for professionals"} }
 ] } } 

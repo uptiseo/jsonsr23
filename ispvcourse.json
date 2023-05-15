@@ -1,28 +1,5 @@
 { "basket": { "blogList": [ 
-{ "blog": { "link": "https://istindia.org/course/solar-operator-technician-training","title": "JSON solar operator technician training"} }
-{ "blog": { "link": "https://istindia.org/course/solar-training-network-global","title": "JSON solar training network global"} }
-{ "blog": { "link": "https://istindia.org/course/solar-training-and-education-for-professionals","title": "JSON solar training and education for professionals"} }
-{ "blog": { "link": "https://istindia.org/course/solar-careers-certifications-and-degrees-","title": "JSON solar careers certifications and degrees"} }
-{ "blog": { "link": "https://istindia.org/course/certificate-course-in-solar-power-installation","title": "JSON certificate course in solar power installation"} }
-{ "blog": { "link": "https://istindia.org/course/careers-in-solar-power","title": "JSON careers in solar power"} }
-{ "blog": { "link": "https://istindia.org/course/india-solar-skills-training","title": "JSON india solar skills training"} }
-{ "blog": { "link": "https://istindia.org/course/solar-energy-industry-workers","title": "JSON solar energy industry workers"} }
-{ "blog": { "link": "https://istindia.org/course/training-for-solar-industry-jobs","title": "JSON training for solar industry jobs"} }
-{ "blog": { "link": "https://istindia.org/course/solar-training-apprenticeships-and-education","title": "JSON solar training apprenticeships and education"} }
-{ "blog": { "link": "https://istindia.org/course/solar-pv-design-installation-training","title": "JSON solar pv design installation training"} }
-{ "blog": { "link": "https://istindia.org/course/solar-training-and-solar-professionals","title": "JSON solar training and solar professionals"} }
-{ "blog": { "link": "https://istindia.org/course/solar-training---the-first-step-to-a-career-in-solar-energy","title": "JSON solar training   the first step to a career in solar energy"} }
-{ "blog": { "link": "https://istindia.org/course/training-for-engineers-on-solar-pv-system","title": "JSON training for engineers on solar pv system"} }
-{ "blog": { "link": "https://istindia.org/course/how-to-get-into-solar-engineering","title": "JSON how to get into solar engineering"} }
-{ "blog": { "link": "https://istindia.org/course/solar-pv-certification-training","title": "JSON solar pv certification training"} }
-{ "blog": { "link": "https://istindia.org/course/solar-engineer-skills","title": "JSON solar engineer skills"} }
-{ "blog": { "link": "https://istindia.org/course/senior-solar-engineer-engineering-jobs","title": "JSON senior solar engineer engineering jobs"} }
-{ "blog": { "link": "https://istindia.org/course/senior-engineer-lead-design-engineer","title": "JSON senior engineer lead design engineer"} }
-{ "blog": { "link": "https://istindia.org/course/solar-engineer-jobs","title": "JSON solar engineer jobs"} }
-{ "blog": { "link": "https://istindia.org/course/senior-solar-engineer","title": "JSON senior solar engineer"} }
-{ "blog": { "link": "https://istindia.org/course/solar-rooftop-grid-engineer-training","title": "JSON solar rooftop grid engineer training"} }
-{ "blog": { "link": "https://istindia.org/course/carry-out-operation-of-solar-pv-power-plant","title": "JSON carry out operation of solar pv power plant"} }
-{ "blog": { "link": "https://istindia.org/course/training-curriculum-for-solar-pv-installers-and-system","title": "JSON training curriculum for solar pv installers and system"} }
-{ "blog": { "link": "https://istindia.org/course/operations-solar-electrical-engineer","title": "JSON operations solar electrical engineer"} }
-{ "blog": { "link": "https://istindia.org/course/solar-engineering-pv-design-online-certification-course","title": "JSON solar engineering pv design online certification course"} }
+{ "blog": { "link": "https://istindia.org/course/solar-operator-technician-training", "title": "JSON solar operator technician training"} }
+{ "blog": { "link": "https://istindia.org/course/solar-training-network-global", "title": "JSON solar training network global"} }
+{ "blog": { "link": "https://istindia.org/course/solar-training-and-education-for-professionals", "title": "JSON solar training and education for professionals"} }
 ] } } 

@@ -1,4 +1,8 @@
 { "istinbasket": { "pageList": [ 
+ { "page": { "link": "https://istindia.org/", "title": "Institute of Solar Technology (IST)"} }, 
+  { "page": { "link": "https://istindia.org/support/2023-24-solar-schemes-govt-of-india.php", "title": " 2023-24 Solar Schemes Govt of India"} }, 
+  { "page": { "link": "https://istindia.org/alumni/", "title": "IST Alumni, IST Professional, IST Entrepreneurs worldwide"} }, 
+  { "page": { "link": "https://istindia.org/training/offline-pv-project-course.php ", "title": "offline pv project course "} }, 
 { "page": { "link": "https://istindia.org/training/offline-pv-project-course.php ", "title": "offline pv project course "} }, 
 { "page": { "link": "https://istindia.org/training/online-pv-business-training.php ", "title": "online pv business training "} }, 
 { "page": { "link": "https://istindia.org/training/solar-project-design-course-for-engineers.php ", "title": "solar project design course for engineers "} }, 

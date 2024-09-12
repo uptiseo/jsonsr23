@@ -1,4 +1,5 @@
 { "istinbasket": { "pageList": [ 
+  { "page": { "link": "https://istindia.org/support/internship.php", "title": "Internship at IST"} }, 
  { "page": { "link": "https://istindia.org/", "title": "institute of solar technology IST"} }, 
  { "page": { "link": "https://istindia.org/atc/", "title": "IST Branch offline training"} },
  { "page": { "link": "https://istindia.org/atc/hosur-tn.php", "title": "IST Hosur TN Branch"} },

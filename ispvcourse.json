@@ -1,5 +1,6 @@
 { "istinbasket": { "pageList": [ 
   { "page": { "link": "https://istindia.org/support/internship.php", "title": "Internship at IST"} }, 
+    { "page": { "link": "https://istindia.org/self-paced/", "title": "Self Paced E-learning on Solar Energy Lithium-ion battery"} }, 
  { "page": { "link": "https://istindia.org/", "title": "institute of solar technology IST"} }, 
  { "page": { "link": "https://istindia.org/courses/lithium-battery-pack-assembly.php", "title": "Lithium-ion Battery Pack Assembly course"} },
   { "page": { "link": "https://istindia.org/training/client-relationship-developmen-in-PV-solar-project.php", "title": "Client Relationship Development in PV Solar Projects"} },
